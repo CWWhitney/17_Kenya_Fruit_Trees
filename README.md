@@ -58,7 +58,7 @@ to provide planting materials for fruit trees.</figcaption>
 
 For the results of the Value of information analysis see the full list
 of AgenaRisk generated [EV(P)PI and EV\|PI
-values](https://htmlpreview.github.io/?raw.githubusercontent.com/CWWhitney/kenya_fruit_trees/main/data/EVPI_Minimized/EVPI_Energy.html).
+values](https://htmlpreview.github.io/?raw.githubusercontent.com/CWWhitney/17_Kenya_Fruit_Trees/main/data/EVPI_Minimized/EVPI_Energy.html).
 We are mainly interested in the EVPI (last collection of values in the
 display). For more information, and for running locally, see [the full
 model in AgenaRisk](./Models/BN_Model_Energy_170613.cmp). This includes
@@ -79,7 +79,7 @@ trees.</figcaption>
 
 For the results of the Value of information analysis see the full list
 of AgenaRisk generated [EV(P)PI and EV\|PI
-values](https://htmlpreview.github.io/?raw.githubusercontent.com/CWWhitney/kenya_fruit_trees/main/data/EVPI_Minimized/EVPI_Iron.html).
+values](https://htmlpreview.github.io/?raw.githubusercontent.com/CWWhitney/17_Kenya_Fruit_Trees/main/data/EVPI_Minimized/EVPI_Iron.html).
 We are mainly interested in the EVPI (last collection of values in the
 display). For more information, and for running locally, see [the full
 model in AgenaRisk](./Models/BN_Model_Iron_170613.cmp). This includes
@@ -102,7 +102,7 @@ AgenaRisk](./Models/BN_Model_Vit_A_170613.cmp). This includes all
 respective tables of probability. For the results of the Value of
 information analysis see the full list of AgenaRisk generated [EV(P)PI
 and EV\|PI
-values](https://htmlpreview.github.io/?raw.githubusercontent.com/CWWhitney/kenya_fruit_trees/main/data/EVPI_Minimized/EVPI_Vit_A.html).
+values](https://htmlpreview.github.io/?raw.githubusercontent.com/CWWhitney/17_Kenya_Fruit_Trees/main/data/EVPI_Minimized/EVPI_Vit_A.html).
 We are mainly interested in the EVPI (last collection of values in the
 display).
 
@@ -124,7 +124,7 @@ AgenaRisk](./Models/BN_Model_Zinc_170415.cmp). This includes all
 respective tables of probability. For the results of the Value of
 information analysis see the full list of AgenaRisk generated [EV(P)PI
 and EV\|PI
-values](https://htmlpreview.github.io/?raw.githubusercontent.com/CWWhitney/kenya_fruit_trees/main/data/EVPI_Minimized/EVPI_Zinc.html).
+values](https://htmlpreview.github.io/?raw.githubusercontent.com/CWWhitney/17_Kenya_Fruit_Trees/main/data/EVPI_Minimized/EVPI_Zinc.html).
 We are mainly interested in the EVPI (last collection of values in the
 display).
 
